@@ -1,5 +1,5 @@
 '''
-<Your Name>, <Grade> <Course>
+Miley, 12th APCSP
 Assignment: Celcius to Fahrenheit
 
 This program will prompt the user to input Celcius temperature 
